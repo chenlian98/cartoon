@@ -5,6 +5,7 @@ import router from "./router";
 import store from "./store";
 import "./components/van";
 import "normalize.css";
+import "./assets/css/reset.css";
 
 Vue.config.productionTip = false;
 

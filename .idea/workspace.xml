@@ -2,179 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffc641ea-f01a-4824-ba78-212077951740" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-peiyin/neirong-peiyin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong-taioyin/neirong-taioyin (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (10).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (12).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (13).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/neirong/neirong (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/Audio-diffuse/zhugongneng/zhugongneng (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (10).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/guanzhu/guanzhu (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong-huihuatu/tuijian-neirong-huihuatu (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong-huihuatu/tuijian-neirong-huihuatu (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong-huihuatu/tuijian-neirong-huihuatu (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong-huihuatu/tuijian-neirong-huihuatu (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong-huihuatu/tuijian-neirong-huihuatu (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian-neirong/tuijian-neirong (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (10).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (12).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (13).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/tuijian/tuijian (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (10).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (11).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/community/zhuxin/zuixin (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakaketen-neirong/dakaketen-neirong (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/dakatetang/manhuaketeang-dakatetang (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-neirong/shouyejingpingmanhua-neirong (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-xiangqing/shouyejingpingmanhua-xiangqing (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-xiangqing/shouyejingpingmanhua-xiangqing (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-xiangqing/shouyejingpingmanhua-xiangqing (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-xiangqing/shouyejingpingmanhua-xiangqing (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpingmanhua-xiangqing/shouyejingpingmanhua-xiangqing (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/jingpinmanhua-mulu/shouyejingpinmanhua-mulu (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/carousel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (12).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (16).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (18).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (19).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (20).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (21).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (22).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (23).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (25).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (26).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (27).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/shouye (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang -neirong/shouyemanhuaketang -neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang -neirong/shouyemanhuaketang -neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang -neirong/shouyemanhuaketang -neirong (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang -neirong/shouyemanhuaketang -neirong (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang-xinshourumen-neirong/shouyemanhuaketang-xinshourumen-neirong (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang-xinshourumen-neirong/shouyemanhuaketang-xinshourumen-neirong (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang-xinshourumen/shouyemanhuaketang-xinshourumen(3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang-xinshourumen/shouyemanhuaketang-xinshourumen(4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang-xinshourumen/shouyemanhuaketang-xinshourumen(5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/home/manhuaketang/shouyemanhuaketang  (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/gaunyuwomen/gaunyuwomen (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/gaunyuwomen/gaunyuwomen (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/gaunyuwomen/gaunyuwomen (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/shezhi/shezhi (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/shezhi/shezhi (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodefabu/wodefabu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (4).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (5).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (6).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (7).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (8).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (9).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/woyaofabu/woyaofabu (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/woyaofabu/woyaofabu (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/woyaofabu/woyaofabu (3).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/xiaoxi/xiaoxi (1).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/images/my/xiaoxi/xiaoxi (2).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/tabBar.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/van.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/comment-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/home/main/give-a-like.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/circle-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/circle.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/coffee-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/coffee.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/heart-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/heart.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/home-blue.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/images/icons/home.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/AudioDiffuse.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Community.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/My.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/child/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/child/Message.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/child/Release.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/child/Setting.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/babel.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/babel.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (12).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/freehand.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (20).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/community.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (22).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/home.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (25).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/share.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (26).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/heart.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (27).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/Audio-diffuse.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/home/main/shouye (8).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/home/main/freehand2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (1).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/setting.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (2).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/smile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (3).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/wode (3).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (4).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/about.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (5).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/voice.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (6).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/wode (6).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (7).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/head-portrait.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (8).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/release.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/my/wodezhugongneng/wode (9).png" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/images/my/user/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/tabBar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/tabBar.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/About.vue" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/Home.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/Home.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -188,20 +60,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="van.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/van.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="6" selection-start-column="6" selection-end-column="6" />
+            <state relative-caret-position="980">
+              <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -212,55 +75,115 @@
       <file leaf-file-name="Home.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="268" column="25" selection-start-line="268" selection-start-column="25" selection-end-line="268" selection-end-column="25" />
+            <state relative-caret-position="222">
+              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
-                <element signature="n#style#0;n#img#0;n#van-swipe-item#0;n#van-swipe#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#van-swipe-item#0;n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#1;n#div#1;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
-                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#router-link#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#2;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#3;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#img#1;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#img#1;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
                 <element signature="n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
-                <element signature="e#2090#2219#0" />
-                <element signature="e#1378#1388#0" />
-                <element signature="e#1552#1570#0" />
-                <element signature="e#2202#2273#0" />
-                <element signature="e#1409#1475#0" />
-                <element signature="e#766#1512#0" />
-                <element signature="e#3194#3439#0" />
-                <element signature="e#1885#1899#0" />
-                <element signature="e#1900#1914#0" />
-                <element signature="e#2315#2518#0" />
-                <element signature="e#2367#2433#0" />
-                <element signature="e#2452#2514#0" />
-                <element signature="e#3314#3328#0" />
-                <element signature="e#3749#3763#0" />
+                <element signature="n#img#1;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#router-link#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#0;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+                <element signature="n#div#1;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="popularity.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/popularity.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="XSLT Stylesheet" />
+        <option value="package_json" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>classification</find>
-      <find>#ED4343</find>
-      <find>common</find>
+      <find>人气榜</find>
+      <find>Ranking</find>
+      <find>人气</find>
       <find>title</find>
+      <find>one</find>
+      <find>0.65</find>
+      <find>cle</find>
+      <find>author</find>
+      <find>small</find>
+      <find>Small</find>
+      <find>small-graph</find>
+      <find>.author</find>
+      <find>margin-right: .1rem;</find>
+      <find>Small-graph</find>
+      <find>list-item</find>
+      <find>box</find>
+      <find>components</find>
+      <find>router</find>
+      <find>router-</find>
+      <find>classification</find>
+      <find>component</find>
+      <find>p</find>
+      <find>游戏</find>
+      <find>h3</find>
+      <find>h4</find>
+      <find>wrap</find>
+      <find>wrap-box</find>
+      <find>h2</find>
+      <find>community</find>
+      <find>release</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>h2</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/assets/images/home/main</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -268,14 +191,33 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/babel.config.js" />
+        <option value="$PROJECT_DIR$/src/App.vue" />
+        <option value="$PROJECT_DIR$/src/components/van.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/css/home.css" />
         <option value="$PROJECT_DIR$/src/main.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/public/index.html" />
-        <option value="$PROJECT_DIR$/src/App.vue" />
-        <option value="$PROJECT_DIR$/src/components/van.js" />
+        <option value="$PROJECT_DIR$/src/views/community.vue" />
+        <option value="$PROJECT_DIR$/src/views/package.json" />
+        <option value="$PROJECT_DIR$/src/views/Community.vue" />
+        <option value="$PROJECT_DIR$/src/views/AudioDiffuse.vue" />
+        <option value="$PROJECT_DIR$/src/assets/css/home.scss" />
+        <option value="$PROJECT_DIR$/src/assets/css/reset.css" />
+        <option value="$PROJECT_DIR$/src/views/children/message.vue" />
+        <option value="$PROJECT_DIR$/src/views/children/Message.vue" />
+        <option value="$PROJECT_DIR$/src/views/children/release.vue" />
+        <option value="$PROJECT_DIR$/src/views/children/setting.vue" />
+        <option value="$PROJECT_DIR$/src/views/children/About.vue" />
+        <option value="$PROJECT_DIR$/src/views/child/About.vue" />
+        <option value="$PROJECT_DIR$/src/views/child/Message.vue" />
+        <option value="$PROJECT_DIR$/src/views/child/Release.vue" />
+        <option value="$PROJECT_DIR$/src/views/child/Setting.vue" />
+        <option value="$PROJECT_DIR$/src/views/My.vue" />
+        <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/src/views/Home.vue" />
+        <option value="$PROJECT_DIR$/src/components/tabBar.vue" />
       </list>
     </option>
   </component>
@@ -295,7 +237,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -308,19 +250,38 @@
         <subPane>
           <expand>
             <path>
-              <item name="newcaricature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcaricature" type="462c0819:PsiDirectoryNode" />
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newcaricature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcaricature" type="462c0819:PsiDirectoryNode" />
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="newcaricature" type="b2602c69:ProjectViewProjectNode" />
-              <item name="newcaricature" type="462c0819:PsiDirectoryNode" />
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="router" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="caricature" type="b2602c69:ProjectViewProjectNode" />
+              <item name="caricature" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="child" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -332,6 +293,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
@@ -339,8 +301,12 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/assets" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/assets" />
       <recent name="$PROJECT_DIR$/src/components" />
@@ -369,55 +335,62 @@
       <option name="presentableId" value="Default" />
       <updated>1577683486494</updated>
       <workItem from="1577683487599" duration="55000" />
-      <workItem from="1577683577867" duration="19742000" />
+      <workItem from="1577683577867" duration="23256000" />
+      <workItem from="1577756676951" duration="18979000" />
+      <workItem from="1577889728066" duration="245000" />
+      <workItem from="1577891906382" duration="535000" />
+      <workItem from="1577928855086" duration="234000" />
+      <workItem from="1577950833908" duration="9516000" />
+      <workItem from="1577968862179" duration="367000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19797000" />
+    <option name="totallyTimeSpent" value="53187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20730738" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1810961" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info id="npm" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
     </layout>
     <layout-to-restore>
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info id="npm" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.0" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.0" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1810961" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -428,59 +401,212 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="20" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1036">
+          <caret line="37" column="2" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="17" column="48" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="e#785#835#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3726">
+          <caret line="138" column="26" lean-forward="true" selection-start-line="138" selection-start-column="26" selection-end-line="138" selection-end-column="26" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#van-swipe-item#0;n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#1;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#img#1;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#img#1;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#img#1;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="49" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="e#785#835#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/babel.config.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="5" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/HelloWorld.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/tabBar.vue">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/logo.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/carousel.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main.js">
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/trophy.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/popularity.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="27">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/van.js">
+    <entry file="file://$PROJECT_DIR$/src/components/HelloWorld.vue" />
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.browserslistrc">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.eslintrc.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/heart.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/small-graph.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="189">
+          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/share.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/carousel2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/package.json" />
+    <entry file="file://$PROJECT_DIR$/node_modules/vue/types/options.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="101" column="2" selection-start-line="101" selection-start-column="2" selection-end-line="101" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/home.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/coffee-blue.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/circle-blue.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/heart-blue.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/heart.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/circle.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/home-blue.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/assets/images/icons/coffee.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/store/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -491,58 +617,184 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/van.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="32" column="22" lean-forward="true" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        <state relative-caret-position="123">
+          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/src/assets/css/home.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="-3852">
+          <caret line="57" column="1" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/trophy.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/assets/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="23" column="18" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/assets/images/home/main/popularity.png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/src/views/Community.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/AudioDiffuse.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/child/Release.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/child/Setting.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/child/Message.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/child/About.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/tabBar.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+          <folding>
+            <element signature="n#script#0;n#!!top" />
+            <element signature="e#785#835#0" expanded="true" />
+            <element signature="n#style#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/router/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="980">
+          <caret line="35" column="51" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/views/My.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="37" />
+          <folding>
+            <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#ul#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#1;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#2;n#div#0;n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#router-link#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#router-link#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#router-link#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#router-link#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#li#0;n#div#0;n#router-link#3;n#div#0;n#template#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/views/Home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="268" column="25" selection-start-line="268" selection-start-column="25" selection-end-line="268" selection-end-column="25" />
+        <state relative-caret-position="222">
+          <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="n#div#0;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#van-swipe-item#0;n#van-swipe#0;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#van-swipe-item#0;n#van-swipe#0;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#1;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#1;n#div#1;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#2;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#router-link#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#2;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#div#3;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#img#1;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#3;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#img#1;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#3;n#div#0;n#template#0;n#!!top" />
             <element signature="n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
-            <element signature="e#2090#2219#0" />
-            <element signature="e#1378#1388#0" />
-            <element signature="e#1552#1570#0" />
-            <element signature="e#2202#2273#0" />
-            <element signature="e#1409#1475#0" />
-            <element signature="e#766#1512#0" />
-            <element signature="e#3194#3439#0" />
-            <element signature="e#1885#1899#0" />
-            <element signature="e#1900#1914#0" />
-            <element signature="e#2315#2518#0" />
-            <element signature="e#2367#2433#0" />
-            <element signature="e#2452#2514#0" />
-            <element signature="e#3314#3328#0" />
-            <element signature="e#3749#3763#0" />
+            <element signature="n#img#1;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#div#3;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#0;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#2;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#router-link#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#0;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
+            <element signature="n#div#1;n#div#0;n#div#3;n#div#4;n#div#0;n#template#0;n#!!top" />
           </folding>
         </state>
       </provider>

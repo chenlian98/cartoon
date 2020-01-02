@@ -10,19 +10,54 @@ const routes = [
     name: "home",
     component: Home
   },
+  //community： 社区
   {
-    path: "/about",
+    path: "/Community",
+    name: "community",
+    component: () => import("../views/Community.vue")
+  },
+  //AudioDiffuse:有声漫
+  {
+    path: "/AudioDiffuse",
+    name: "audioDiffuse",
+    component: () => import("../views/AudioDiffuse.vue")
+  },
+  //my:我的
+  {
+    path: "/My",
+    name: "my",
+    component: () => import("../views/My.vue")
+  },
+  //我的发布
+  {
+    path: "/child/Release",
+    name: "release",
+    component: () => import("../views/child/Release.vue")
+  },
+  //我的消息
+  {
+    path: "/child/Message",
+    name: "message",
+    component: () => import("../views/child/Message.vue")
+  },
+  //设置
+  {
+    path: "/child/Setting",
+    name: "setting",
+    component: () => import("../views/child/Setting.vue")
+  },
+  //关于我们
+  {
+    path: "/child/About",
     name: "about",
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () =>
-      import(/* webpackChunkName: "about" */ "../views/About.vue")
+    component: () => import("../views/child/About.vue")
   }
 ];
 
 const router = new VueRouter({
-  routes
+  mode: "history",
+  routes,
+  linkExactActiveClass: "blue-active"
 });
 
 export default router;
