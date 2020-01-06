@@ -28,7 +28,7 @@
       </div>
     </div>
     <div class="bj"></div>
-    <router-link :to="{ name: 'about' }">
+    <router-link :to="{ name: 'release' }">
       <div class="list">
         <li>
           <img src="../assets/images/my/user/release.png" alt="" />
@@ -55,7 +55,7 @@
         <van-icon name="arrow" class="arrow" />
       </div>
     </router-link>
-    <router-link :to="{ name: 'release' }">
+    <router-link :to="{ name: 'about' }">
       <div class="list">
         <li>
           <img src="../assets/images/my/user/about.png" alt="" />
